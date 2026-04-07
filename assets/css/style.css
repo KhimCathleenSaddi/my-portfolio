@@ -78,6 +78,16 @@ h2 {
     margin-bottom: 25px;
 }
 
+h3 { 
+    border-bottom: 1px solid #3498db; 
+    padding-bottom: 10px; 
+    color: #555; 
+    text-transform: uppercase;
+    font-size: 0.9rem;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
 .sub-heading {
     border-bottom: 1px solid #3498db; /* Thinner line than H2 */
     padding-bottom: 5px;
