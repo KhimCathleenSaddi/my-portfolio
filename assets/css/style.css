@@ -78,6 +78,19 @@ h2 {
     margin-bottom: 25px;
 }
 
+.sub-heading {
+    border-bottom: 1px solid #3498db; /* Thinner line than H2 */
+    padding-bottom: 5px;
+    color: #555;              /* Slightly lighter grey than H2 */
+    text-transform: uppercase;
+    font-size: 0.9rem;        /* Smaller than your 1.1rem H2 */
+    font-weight: 400;         /* This makes it "not bold" */
+    letter-spacing: 0.5px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    display: block;           /* Ensures it takes up its own line */
+}
+
 /* Academic Item Styling */
 .item { margin-bottom: 15px; }
 .date { font-weight: bold; color: #7f8c8d; margin-right: 10px; }
