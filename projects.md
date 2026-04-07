@@ -3,20 +3,17 @@ layout: default
 title: My Research Projects
 ---
 
-# Current Projects
+# Projects
 
-### 1. Autonomous Drone Navigation
+# 2022-2026 PhD Researcher
+### RiverWatch: a citizen science approach to pollution monitoring
 Focusing on obstacle avoidance in dense urban environments using computer vision.
-* **Status:** Ongoing
-* **Tech:** Python, ROS, OpenCV
-
-### 2. Large Language Models for Education
-Exploring how AI can provide personalized feedback to undergraduate students.
-* **Status:** Completed
-* **Link:** [View Repo](https://github.com/yourlink)
+[Website](https://sites.google.com/view/riverwatch/home-page)
 
 ---
 
-### Past Work
-* **Project Gamma (2023):** Data visualization for climate change.
-* **Project Delta (2022):** Secure blockchain voting systems.
+# 2022-2026 PhD Researcher
+### RiverWatch: a citizen science approach to pollution monitoring
+Focusing on obstacle avoidance in dense urban environments using computer vision.
+[Website](https://sites.google.com/view/riverwatch/home-page)
+
