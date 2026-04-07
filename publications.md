@@ -3,7 +3,7 @@ layout: default
 title: My Publications
 ---
 
-** Publications **
+## Publications
 
 **Saddi, K. C.**, Emmerik, T. V., Miglino, D., Poggi, M., Isgrò, F., Tasseron, P., ... & Manfreda, S. (2025). Exploring the Transferability of Image-based algorithms for River Plastic Detection: The Value of Small Mixed Datasets. Water Resources Research.
 
