@@ -9,7 +9,7 @@ body {
    display: flex;
    line-height: 1.6;
    color: #333;
-   background-color: yellow !important;
+   background-color: #f1d1d1 !important;
 }
 
 /* ==========================================
@@ -131,7 +131,7 @@ a:hover { text-decoration: underline; color: #3498db; }
 
 .collage-item img {
     width: 100% !important;
-    height: 100% !important; /* Forces same height */
+    aspect-ratio: 1/1 !important;
     object-fit: cover !important;
     display: block !important;
     transition: transform 0.5s ease, filter 0.5s ease;
