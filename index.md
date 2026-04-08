@@ -3,8 +3,11 @@ layout: default
 title: Home
 ---
 
-### Interdisciplinary researcher curious about sustainability focusing on how we can transform engineering to be socially sensitive, and generate a bigger impact through developing collaborativ environmental monitoring techniques.
-
+<div class="simple-banner">
+  <div class="banner-text">
+    <h1>Interdisciplinary researcher curious about sustainability focusing on how we can transform engineering to be socially sensitive, and generate a bigger impact through developing collaborativ environmental monitoring techniques.</h1> 
+  </div>
+</div>
 
 ### Research Gallery
 <div class="animated-collage">
