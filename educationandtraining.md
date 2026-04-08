@@ -5,18 +5,22 @@ title: My Education and Training
 
 ## Education
 
-**2022 — Present**
+* **2022 — Present**
 ### Ph.D. in Sustainable Development and Climate Change</strong>
   IUSS Pavia, Italy / University of Naples Federico II, Italy
+{. custom-list}
 
-**2024**
+* **2024**
 ### Visiting PhD Researcher</strong>
-Wageningen University, HWM Group, The Netherlands
+  Wageningen University, HWM Group, The Netherlands
+{. custom-list}
 
-**2017 — 2019**
+* **2017 — 2019**
 ### Master of Engineering major in Civil Engineering
-Ateneo de Davao University, Philippines
+ Ateneo de Davao University, Philippines
+{. custom-list}
 
-**2008 — 2013**
+* **2008 — 2013**
 ### Bachelor of Science in Civil Engineering
-Ateneo de Naga University, Philippines
+ Ateneo de Naga University, Philippines
+{. custom-list}
