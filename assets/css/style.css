@@ -43,6 +43,15 @@ header {
     transition: width 0.3s ease;
 }
 
+header a.email-sidebar {
+    color: #f1d1d1 !important; /* Forces the text to be the pink color */
+}
+
+header a.email-sidebar:hover {
+    color: white !important;
+    text-decoration: underline;
+}
+
 header h1 { font-size: 1.4rem; margin: 10px 0; color: #fff; }
 
 nav { margin-top: 20px; width: 100%; }
