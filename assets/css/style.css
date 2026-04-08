@@ -303,4 +303,18 @@ li { margin-bottom: 15px; padding-left: 15px; border-left: 3px solid #3498db; }
 .animated-collage {
     animation: fadeInUp 1s ease-out;
 }
+
+/* On tablets, switch to 2 columns */
+@media (max-width: 900px) {
+    .animated-collage {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+/* On phones, switch to 1 column */
+@media (max-width: 600px) {
+    .animated-collage {
+        grid-template-columns: 1fr;
+    }
+}
 }
