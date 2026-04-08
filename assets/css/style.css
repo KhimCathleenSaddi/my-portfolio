@@ -90,7 +90,7 @@ main {
     overflow: hidden;
 }
 .banner-text h1 {
-    color: #d1b4b4 !important;
+    color: #363434 !important;
     font-size: 2.2rem !important;
     margin-bottom: 10px;
     border: none !important; /* Removes your global blue underline */
