@@ -12,7 +12,7 @@ title: Home
 ### Research themes
 <div class="animated-collage">
   <div class="collage-item">
-    <img src="{{ '/assets/Images/collage/SDG-Goal-06.jpg' | relative_url }}" alt="SDG 6">
+    <img src="{{ '/Images/collage/SDG-Goal-06.jpg' | relative_url }}" alt="SDG 6">
   </div>
   <div class="collage-item">
     <img src="/Images/collage/SDG-Goal-09.jpg" alt="SDG 9">
