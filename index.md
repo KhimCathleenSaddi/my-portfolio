@@ -9,11 +9,10 @@ title: Home
   </div>
 </div>
 
-
 ### Research themes
 <div class="animated-collage">
   <div class="collage-item">
-    <img src="/Images/collage/SDG-Goal-06.jpg" alt="SDG 6">
+    <img src="{{ '/assets/Images/collage/SDG-Goal-06.jpg' | relative_url }}" alt="SDG 6">
   </div>
   <div class="collage-item">
     <img src="/Images/collage/SDG-Goal-09.jpg" alt="SDG 9">
