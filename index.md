@@ -5,7 +5,7 @@ title: Home
 
 <div class="simple-banner">
   <div class="banner-text">
-    <h1>Interdisciplinary researcher curious about sustainability focusing on how we can transform engineering to be socially sensitive, and generate a bigger impact through developing collaborativ environmental monitoring techniques.</h1> 
+    <h1>As a transdisciplinary researcher specializing in SDGs, I drive socially inclusive science by developing collaborative environmental monitoring techniques.</h1> 
   </div>
 </div>
 
