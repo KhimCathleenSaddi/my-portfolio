@@ -5,7 +5,11 @@ title: Home
 
 <div class="simple-banner">
   <div class="banner-text">
-    <h1>As a transdisciplinary researcher specializing in SDGs, I drive socially inclusive science by developing collaborative environmental monitoring techniques.</h1> 
+    <h1>As a transdisciplinary researcher and educator specializing in SDGs, I drive socially
+inclusive science by developing collaborative environmental monitoring and management
+tools to improve society. I integrate multiscale remote sensing and cutting edge artificial
+intelligence with citizen science to translate data into actionable and democratic insights. I
+have 11 years of proven track record in research, and project management.</h1> 
   </div>
 </div>
 
